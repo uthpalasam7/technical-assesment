@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "NT Infotech",
+      "password": "Test123$$$",
+      "email": "test@gmail.com"
+    }
+  ],
+  "customer": [
+    {
+      "id": 1,
+      "name": "dsadasdasd",
+      "email": "test@gmail.com",
+      "address": "colombo"
+    },
+    {
+      "id": 2,
+      "name": "sdadasdasdad",
+      "email": "test@gmail.com",
+      "address": "colombo"
+    },
+    {
+      "id": 3,
+      "name": "NT Infotech",
+      "email": "test@gmail.com",
+      "address": "colombo"
+    },
+    {
+      "id": 4,
+      "name": "NT Infotech",
+      "email": "test@gmail.com",
+      "address": "colombo"
+    }
+  ]
+}

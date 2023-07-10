@@ -1,0 +1,23 @@
+<h1 mat-dialog-title>{{ title }}</h1>
+<form [formGroup]="customerform" (ngSubmit)="submitForm()">
+  <div mat-dialog-content>
+    <mat-form-field>
+      <mat-label>Name</mat-label>
+      <input matInput formControlName="name" />
+    </mat-form-field>
+    <mat-form-field>
+      <mat-label>Email</mat-label>
+      <input matInput formControlName="email" />
+    </mat-form-field>
+    <mat-form-field>
+      <mat-label>Address</mat-label>
+      <input matInput formControlName="address" />
+    </mat-form-field>
+  </div>
+  <div mat-dialog-actions align="center">
+    <button type="submit" mat-raised-button color="primary" cdkFocusInitial>
+      Save
+    </button>
+    <button mat-raised-button color="warn" mat-dialog-close>Close</button>
+  </div>
+</form>
