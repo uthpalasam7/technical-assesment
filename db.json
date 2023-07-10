@@ -10,7 +10,7 @@
   "customer": [
     {
       "id": 1,
-      "name": "Jhon",
+      "name": "Jhon Doe",
       "email": "jhon@gmail.com",
       "address": "Colombo"
     },
@@ -63,12 +63,6 @@
       "address": "Colombo"
     },
     {
-      "id": 10,
-      "name": "Michel1",
-      "email": "michel1@gmail.com",
-      "address": "Colombo"
-    },
-    {
       "id": 11,
       "name": "Michel2",
       "email": "michel2@gmail.com",
@@ -97,6 +91,12 @@
       "name": "Angelo",
       "email": "angi@gmail.com",
       "address": "Mumbai"
+    },
+    {
+      "id": 17,
+      "name": "NewUser",
+      "email": "new@gmail.com",
+      "address": "Colombo"
     }
   ]
 }
