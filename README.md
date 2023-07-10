@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Login credentials
 
-- Username : Admin
+- Username : admin
 - Password : Test123$$$
 
 ## Usage
