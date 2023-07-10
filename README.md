@@ -1,6 +1,11 @@
-# TechnicalAssesment
+# Technical Assesment
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.9.
+
+## Login credentials
+
+- Username : Admin
+- Password : Test123$$$
 
 ## Usage
 
