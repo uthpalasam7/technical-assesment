@@ -34,10 +34,11 @@ export class UpdatePopupComponent {
   customerform = this.builder.group({
     id: this.builder.control(''),
     name: this.builder.control('', Validators.required),
-    email: this.builder.control(
-      '',
-      Validators.compose([Validators.required, Validators.email])
-    ),
+    email: this.builder.control('', [Validators.required, Validators.email]),
+    // email: this.builder.control(
+    //   '',
+    //   Validators.compose([Validators.required, Validators.email])
+    // ),
     address: this.builder.control('', Validators.required),
   });
 
