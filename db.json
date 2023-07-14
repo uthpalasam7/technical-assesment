@@ -1,0 +1,102 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "Uthpala",
+      "password": "Test123$$$",
+      "email": "test@gmail.com"
+    }
+  ],
+  "customer": [
+    {
+      "id": 1,
+      "name": "Jhon Doe",
+      "email": "jhon@gmail.com",
+      "address": "Colombo"
+    },
+    {
+      "id": 2,
+      "name": "David",
+      "email": "david@gmail.com",
+      "address": "Colombo"
+    },
+    {
+      "id": 3,
+      "name": "Nash",
+      "email": "nash@gmail.com",
+      "address": "Colombo"
+    },
+    {
+      "id": 4,
+      "name": "Michel",
+      "email": "michel@gmail.com",
+      "address": "Colombo"
+    },
+    {
+      "id": 5,
+      "name": "Doe",
+      "email": "doe@gmail.com",
+      "address": "Colombo"
+    },
+    {
+      "id": 6,
+      "name": "Peter",
+      "email": "peter@gmail.com",
+      "address": "Colombo"
+    },
+    {
+      "id": 7,
+      "name": "Sam",
+      "email": "sam@gmail.com",
+      "address": "Colombo"
+    },
+    {
+      "id": 8,
+      "name": "Grace",
+      "email": "grace@gmail.com",
+      "address": "Colombo"
+    },
+    {
+      "id": 9,
+      "name": "Michel",
+      "email": "michel@gmail.com",
+      "address": "Colombo"
+    },
+    {
+      "id": 11,
+      "name": "Michel2",
+      "email": "michel2@gmail.com",
+      "address": "Colombo"
+    },
+    {
+      "id": 12,
+      "name": "Michel3",
+      "email": "michel3@gmail.com",
+      "address": "Colombo"
+    },
+    {
+      "id": 13,
+      "name": "Michel4",
+      "email": "michel@gmail.com",
+      "address": "Colombo"
+    },
+    {
+      "id": 14,
+      "name": "Michel4",
+      "email": "michel@gmail.com",
+      "address": "Colombo"
+    },
+    {
+      "id": 16,
+      "name": "Angelo",
+      "email": "angi@gmail.com",
+      "address": "Mumbai"
+    },
+    {
+      "id": 17,
+      "name": "NewUser",
+      "email": "new@gmail.com",
+      "address": "Colombo"
+    }
+  ]
+}
